@@ -15,13 +15,13 @@ Usage
 3. choose face expression
 
 
-![](https://raw.githubusercontent.com/Peter654q/Cartoonized/result/OilPaint.jpg)
+![image](https://github.com/Peter654q/Cartoonized/blob/master/result/OilPaint.jpg)
 
-![](https://raw.githubusercontent.com/Peter654q/Cartoonized/result/Result1_lap.jpg)
+![image](https://github.com/Peter654q/Cartoonized/blob/master/result/Result1_lap.jpg)
 
 Participate
 ---
-[Susan Su](https://github.com/amm040341)
+[Susan Su](https://github.com/amm040341)    
 [Peter Chuang](https://github.com/Peter654q)    
 
 
